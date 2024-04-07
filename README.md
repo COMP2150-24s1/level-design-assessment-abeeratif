@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YyUO0xtt)
 # COMP2150  - Level Design Document
-### Name: [your name]
-### Student number: [your student number] 
+### Name: Abeer Atif
+### Student number: 47329165
 
 This document discusses and reflects on the design of your platformer level for the Level Design assessment. It should be 1500 words. Make sure you delete this and all other instructional text throughout the document before checking your word count prior to submission. Hint: You can check word count by copying this text into a Word or Google doc.
 
@@ -63,19 +63,38 @@ You should restructure the headings below to match the order they appear in your
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
 No additional words are necessary for this section (any words should only be within your images/diagrams).
+
+![Key for Storyboard](DocImages/StoryboardKey.jpg)
+![Storyboard/Level Map Part 1](DocImages/Storyboard1.jpeg)
+![Storyboard/Level Map Part 2](DocImages/Storyboard2.jpeg)
  
 ### 3.1. Molecule Diagram
 
-### 3.2. Level Map – Section 1
+![Molecule Diagram](DocImages/MoleculeDiagram.png)
 
-### 3.3.	Level Map – Section 2
+### 3.2. Level Map – Section 1 & Section 2
+![Storyboard/Level Map Part 1](DocImages/Storyboard1.jpeg)
 
 ### 3.4.	Level Map – Section 3
+![Storyboard/Level Map Part 2](DocImages/Storyboard2.jpeg)
 
 ## 4. Iterative Design (~400 words)
 Reflect on how iterative design helped to improve your level. Additional prototypes and design artefacts should be included to demonstrate that you followed an iterative design process (e.g. pictures of paper prototypes, early grey-boxed maps, additional storyboards of later gameplay sequences, etc.). You can also use this section to justify design changes made in Unity after you drew your level design maps shown in section 3. 
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
+
+After drawing my storyboard and molecule diagram, I began implementing the design in my level. After I created each encounter, I playtested it and found there were many things that needed to be changed. Then, I modified the storyboard and molecule diagram to reflect the changes I wanted to make before implementing it in Unity. 
+
+For example, I changed the first moving platform to be a pass through platform in order to make it easier for the player to learn how to jump onto a platform at first. 
+Then, I added two pillars instead of one in the third encounter to ensure the player does not simply skip the encounter by jumping over one pillar. 
+
+Then, I had to put the spitter on top of a dirt tile to ensure it is in range for the player to shoot, which could not be foreseen in the early stages of the process without playtesting. 
+I noticed I did not include any health pickups in my design so I added three after the first section and two after the second section. This ensures that the player can easily regain health to attempt the next section, while having one less health pickup afterwards increases the difficulty.
+
+After playtesting with someone who was not too experienced in playing video games, I gained insights that I would not have otherwise since I was used to playing my level repeatedly. They found that it was too hard and discouraging trying to jump over each platform with the obstacle (acid or spikes) directly underneath it. So, I made it so it was in between the platforms instead.
+
+Hence, I was able to improve my level design through iterative design.
+
 
 ## Generative AI Use Acknowledgement
 
