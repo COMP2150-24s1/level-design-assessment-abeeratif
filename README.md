@@ -21,8 +21,23 @@ Outline and justify how your level design facilitates the core player experience
 ### 1.1. Discovery
 What does the player learn? How does your encounter and broader level design facilitate learning in a way that follows good design practice?
 
+In the first section, the player learns the mechanics of the game - how to recognise obstacles, manouevre though the level and combat enemies. Each encounter has a clear objective. 
+
+For example, the first encounters teach the player that the spikes and acids must be avoided to preserve their health. This is done by allowing them to experiment with jumping over them or touching them. Players are allowed to make mistakes with the checkpoints placed before the encounter which will help them if they lose their health.
+
+Another example is the encounter where the player learns how to jump below passthrough platforms and how to use the staff for short range attack. The pillars placed on the left side of the platform force the player to jump below the platform. Then, the player is forced to attack the pillar placed on the right of the platform with the staff in order to advance to the next encounter.
+
+One more example is when the player learns to use the gun for long range attacks. The player is forced to use the gun to attack the spitter before it attacks them as the acid is placed before the spitter, disallowing the player to attack with the short ranged staff. This strategic placement allows the player to learn this mechanic of the game.
+
+
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
+
+The rising action in the intensity curve is when the early encounters in section one start with manageable challenges, gradually introducing mechanics and enemies.
+
+The climax in the intensity curve is when the player must weave through the platforms and obstacles and fight enemies using both short ranged and long ranged attacks. These challenges result in a high level of tension, pressure, urgency and excitement.
+
+The falling action is when there is a moment of relief as the section becomes easier near the end and the key is obtained. The resolution is when all three keys are obtained and the game is finished. These both provide relief to the player and satisfaction.
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
@@ -30,12 +45,18 @@ What are the main challenges? How have you designed and balanced these challenge
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
+The level design allows the player to explore and attack the enemies in a non-linear way in some encounters. For example, the player could jump over an enemy and proceed to the next platform, attack the next enemy and then return to the previous enemy.
+
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
 
 Storyboards can be combined when multiple mechanics are introduced within a single encounter. Each section should include a sentence or two to briefly justify why you chose to introduce the mechanic/s to the player in that sequence.
 
 You should restructure the headings below to match the order they appear in your level.
+
+![Key for Storyboard](DocImages/StoryboardKey.jpg)
+![Storyboard/Level Map Part 1](DocImages/Storyboard1.jpeg)
+![Storyboard/Level Map Part 2](DocImages/Storyboard2.jpeg)
 
 ### 2.1. Acid
 
@@ -63,10 +84,6 @@ You should restructure the headings below to match the order they appear in your
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
 
 No additional words are necessary for this section (any words should only be within your images/diagrams).
-
-![Key for Storyboard](DocImages/StoryboardKey.jpg)
-![Storyboard/Level Map Part 1](DocImages/Storyboard1.jpeg)
-![Storyboard/Level Map Part 2](DocImages/Storyboard2.jpeg)
  
 ### 3.1. Molecule Diagram
 
