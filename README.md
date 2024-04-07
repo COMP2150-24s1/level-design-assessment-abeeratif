@@ -120,17 +120,14 @@ An example has been included. Please replace this with any actual tools, and add
 
 
 ### Tool Used: ChatGPT
-**Nature of Use** Finding relevant design theory.
+**Nature of Use** Understanding key concepts of the intensity curve.
 
-**Evidence Attached?** Screenshot of ChatGPT conversation included in the folder "GenAI" in this repo.
+**Evidence Attached?** Screenshot of Bing AI conversation included in the folder "DocImages" in this repo. 
+![AI Screenshot Part 1](DocImages/AI1.png)
+![AI Screenshot Part 2](DocImages/AI2.png)
+![AI Screenshot Part 3](DocImages/AI3.png)
 
-**Additional Notes:** I used ChatGPT to try and find some more relevant design theory that I could apply to my game. After googling them, however, I found most of them were inaccurate, and some didn't exist. One theory mentioned, however, was useful, and I've incorporated it into my work.
+**Additional Notes:** I used Bing AI to understand key words and concepts about the intensity curve.
 
-### Tool Used: Example
-**Nature of Use** Example Text
-
-**Evidence Attached?** Example Text
-
-**Additional Notes:** Example Text
 
 
