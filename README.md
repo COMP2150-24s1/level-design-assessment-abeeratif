@@ -29,7 +29,6 @@ Another example is the encounter where the player learns how to jump below passt
 
 One more example is when the player learns to use the gun for long range attacks. The player is forced to use the gun to attack the spitter before it attacks them as the acid is placed before the spitter, disallowing the player to attack with the short ranged staff. This strategic placement allows the player to learn this mechanic of the game.
 
-
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
@@ -41,6 +40,8 @@ The falling action is when there is a moment of relief as the section becomes ea
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
+
+The main challenges are fighting the enemies while avoiding obstacles and jumping from platform to platform. This can be difficult when there are multiple enemies or when you must break the pillars in mid-air to advance to the next encounter or when you must jump below the pass-through platform in before the spitter attacks you completely. These challenges are introduced gradually within the game to ensure the player's skill level is aligned with the difficulty.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
@@ -108,9 +109,11 @@ Then, I added two pillars instead of one in the third encounter to ensure the pl
 Then, I had to put the spitter on top of a dirt tile to ensure it is in range for the player to shoot, which could not be foreseen in the early stages of the process without playtesting. 
 I noticed I did not include any health pickups in my design so I added three after the first section and two after the second section. This ensures that the player can easily regain health to attempt the next section, while having one less health pickup afterwards increases the difficulty.
 
-After playtesting with someone who was not too experienced in playing video games, I gained insights that I would not have otherwise since I was used to playing my level repeatedly. They found that it was too hard and discouraging trying to jump over each platform with the obstacle (acid or spikes) directly underneath it. So, I made it so it was in between the platforms instead.
+After playtesting with someone who was not too experienced in playing video games, I gained insights that I would not have otherwise since I was used to playing my level repeatedly. They found that it was too hard and discouraging trying to jump over each platform with the obstacle (acid or spikes) directly underneath it. So, I made it so it was in between the platforms instead. This improved the difficulty curve.
 
 Hence, I was able to improve my level design through iterative design.
+
+I could have further improved the difficulty curve by placing the encounter at the end of the second section in a more strategic manner. I feel like it may have been too difficult for section two, although it could have helped in providing a variation in the difficulty curve instead of having a linear curve of easy to difficult. Placing it at the beginning of section three would improve the game.
 
 
 ## Generative AI Use Acknowledgement
@@ -120,7 +123,7 @@ An example has been included. Please replace this with any actual tools, and add
 
 
 ### Tool Used: ChatGPT
-**Nature of Use** Understanding key concepts of the intensity curve.
+**Nature of Use** Understanding the key concept of the intensity curve.
 
 **Evidence Attached?** Screenshot of Bing AI conversation included in the folder "DocImages" in this repo. 
 ![AI Screenshot Part 1](DocImages/AI1.png)
@@ -128,6 +131,8 @@ An example has been included. Please replace this with any actual tools, and add
 ![AI Screenshot Part 3](DocImages/AI3.png)
 
 **Additional Notes:** I used Bing AI to understand key words and concepts about the intensity curve.
+
+![AI Screenshot Part 4](DocImages/AI4.png)
 
 
 
