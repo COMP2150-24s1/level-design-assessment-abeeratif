@@ -32,6 +32,8 @@ One more example is when the player learns to use the gun for long range attacks
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
+Throughout the difficulty curve, there is a modulated increase in difficulty which strikes a balance in between anxiety and boredom where the player becomes engaged and in a flow channel. As the skill increases, the level must not be too easy or too difficult, otherwise the flow will be broken.
+
 The rising action in the intensity curve is when the early encounters in section one start with manageable challenges, gradually introducing mechanics and enemies.
 
 The climax in the intensity curve is when the player must weave through the platforms and obstacles and fight enemies using both short ranged and long ranged attacks. These challenges result in a high level of tension, pressure, urgency and excitement.
@@ -41,7 +43,7 @@ The falling action is when there is a moment of relief as the section becomes ea
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-The main challenges are fighting the enemies while avoiding obstacles and jumping from platform to platform. This can be difficult when there are multiple enemies or when you must break the pillars in mid-air to advance to the next encounter or when you must jump below the pass-through platform in before the spitter attacks you completely. These challenges are introduced gradually within the game to ensure the player's skill level is aligned with the difficulty.
+The main challenges are fighting the enemies while avoiding obstacles and jumping from platform to platform. This can be difficult when there are multiple enemies or when you must break the pillars in mid-air to advance to the next encounter or when you must jump below the pass-through platform in before the spitter attacks you completely. These challenges are introduced gradually within the game to ensure the player's skill level is aligned with the difficulty. Players are kept in the flow channel by ensuring they are focused and engaged. This is done with playtesting and adjusting the difficulty so that it is not too hard or easy.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
