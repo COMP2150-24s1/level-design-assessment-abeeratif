@@ -32,7 +32,7 @@ One more example is when the player learns to use the gun for long range attacks
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
 
-Throughout the difficulty curve, there is a modulated increase in difficulty which strikes a balance in between anxiety and boredom where the player becomes engaged and in a flow channel. As the skill increases, the level must not be too easy or too difficult, otherwise the flow will be broken.
+Throughout the difficulty curve, there is a modulated increase in difficulty which strikes a balance in between anxiety and boredom where the player becomes engaged and in a flow channel. As the skill increases, the level is not too easy or difficult, which ensures the flow will not be broken.
 
 The rising action in the intensity curve is when the early encounters in section one start with manageable challenges, gradually introducing mechanics and enemies.
 
@@ -43,7 +43,7 @@ The falling action is when there is a moment of relief as the section becomes ea
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
-The main challenges are fighting the enemies while avoiding obstacles and jumping from platform to platform. This can be difficult when there are multiple enemies or when you must break the pillars in mid-air to advance to the next encounter or when you must jump below the pass-through platform in before the spitter attacks you completely. These challenges are introduced gradually within the game to ensure the player's skill level is aligned with the difficulty. Players are kept in the flow channel by ensuring they are focused and engaged. This is done with playtesting and adjusting the difficulty so that it is not too hard or easy.
+The main challenges are fighting the enemies while avoiding obstacles and jumping from platform to platform. This can be difficult when there are multiple enemies or when you must break the pillars in mid-air to advance to the next encounter or when you must jump below the pass-through platform in before the spitter attacks you completely. These challenges are introduced gradually within the game to ensure the player's skill level is aligned with the difficulty. Players are kept in the flow channel by ensuring they are focused and engaged. This is done by playtesting and adjusting the difficulty so that it is not too hard or easy.
 
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
@@ -61,9 +61,15 @@ You should restructure the headings below to match the order they appear in your
 ![Storyboard/Level Map Part 1](DocImages/Storyboard1.jpeg)
 ![Storyboard/Level Map Part 2](DocImages/Storyboard2.jpeg)
 
-### 2.1. Acid
-
 ### 2.2. Checkpoints
+There is a checkpoint placed before the spikes and acid. This ensures that even if the player touches the spikes or acid and incurs damage, they can reset to the checkpoint and try again. This ensures they can experiment with the mechanics of the game and learn in a safe environment.
+
+### 2.1. Acid & 2.8. Spikes
+The player may make contact with the spikes, causing damage to their health. This will teach them that the spikes are obstacles to be avoided. They will learn to jump over the spikes as intended in order to advance through the level.
+
+### 2.6. Moving Platforms
+The player has to jump onto the moving platform and onto the next passthrough platform, which is placed at a height that ensures the player cannot simply jump onto it from otno the ground. This forces the player to learn how to use the moving platform. 
+This is also made easy for the player by ensuring there are no obstacles such as acid, spikes or enemies in their way. 
 
 ### 2.3. Chompers
 
@@ -71,11 +77,7 @@ You should restructure the headings below to match the order they appear in your
 
 ### 2.5. Keys
 
-### 2.6. Moving Platforms
-
 ### 2.7. Passthrough Platforms
-
-### 2.8. Spikes
 
 ### 2.9. Spitters
 
