@@ -61,27 +61,29 @@ You should restructure the headings below to match the order they appear in your
 ![Storyboard/Level Map Part 1](DocImages/Storyboard1.jpeg)
 ![Storyboard/Level Map Part 2](DocImages/Storyboard2.jpeg)
 
-### 2.2. Checkpoints
+### 2.1. Checkpoints
 There is a checkpoint placed before the spikes and acid. This ensures that even if the player touches the spikes or acid and incurs damage, they can reset to the checkpoint and try again. This ensures they can experiment with the mechanics of the game and learn in a safe environment.
 
-### 2.1. Acid & 2.8. Spikes
+### 2.2. Acid & Spikes
 The player may make contact with the spikes, causing damage to their health. This will teach them that the spikes are obstacles to be avoided. They will learn to jump over the spikes as intended in order to advance through the level.
 
-### 2.6. Moving Platforms
+### 2.3. Moving Platforms
 The player has to jump onto the moving platform and onto the next passthrough platform, which is placed at a height that ensures the player cannot simply jump onto it from otno the ground. This forces the player to learn how to use the moving platform. 
 This is also made easy for the player by ensuring there are no obstacles such as acid, spikes or enemies in their way. 
 
+### 2.4. Passthrough Platforms & Weapon Pickup (Gun)
+Once the player has jumped onto the passthrough platform, they must jump below it in order to obtain the gun and attack the pillar in order to advance to the next encounter. 
+
 ### 2.3. Chompers
 
+After recieving the gun
+
 ### 2.4. Health Pickups
+The health pickups are placed at the end of each section in order to ensure the player can regain enough health to proceed with the next section. The number of health pickups decrease at the end of the second section in order to increase the challenge of the difficulty curve.
 
 ### 2.5. Keys
 
-### 2.7. Passthrough Platforms
-
 ### 2.9. Spitters
-
-### 2.10. Weapon Pickup (Gun)
 
 ### 2.11. Weapon Pickup (Staff)
 
@@ -108,6 +110,7 @@ You should conclude by highlighting a specific example of an encounter, or anoth
 After drawing my storyboard and molecule diagram, I began implementing the design in my level. After I created each encounter, I playtested it and found there were many things that needed to be changed. Then, I modified the storyboard and molecule diagram to reflect the changes I wanted to make before implementing it in Unity. 
 
 For example, I changed the first moving platform to be a pass through platform in order to make it easier for the player to learn how to jump onto a platform at first. 
+
 Then, I added two pillars instead of one in the third encounter to ensure the player does not simply skip the encounter by jumping over one pillar. 
 
 Then, I had to put the spitter on top of a dirt tile to ensure it is in range for the player to shoot, which could not be foreseen in the early stages of the process without playtesting. 
