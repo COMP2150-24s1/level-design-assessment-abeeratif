@@ -107,13 +107,14 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
-After drawing my storyboard and molecule diagram, I began implementing the design in my level. After I created each encounter, I playtested it and found there were many things that needed to be changed. Then, I modified the storyboard and molecule diagram to reflect the changes I wanted to make before implementing it in Unity. 
+After drawing my storyboard and molecule diagram, I began implementing the design in my level. After I created each encounter, I playtested it and found there were some things that needed to be changed. Then, I modified the storyboard and molecule diagram to reflect the changes I wanted to make before implementing it in Unity. 
 
-For example, I changed the first moving platform to be a pass through platform in order to make it easier for the player to learn how to jump onto a platform at first. 
+For example, I changed the first moving platform to be a pass through platform in order to make it easier for the player to learn how to jump onto a platform at first. I placed a pass through platform to ensure the platform does not move, not so that the player can jump below it.
 
 Then, I added two pillars instead of one in the third encounter to ensure the player does not simply skip the encounter by jumping over one pillar. 
 
 Then, I had to put the spitter on top of a dirt tile to ensure it is in range for the player to shoot, which could not be foreseen in the early stages of the process without playtesting. 
+
 I noticed I did not include any health pickups in my design so I added three after the first section and two after the second section. This ensures that the player can easily regain health to attempt the next section, while having one less health pickup afterwards increases the difficulty.
 
 After playtesting with someone who was not too experienced in playing video games, I gained insights that I would not have otherwise since I was used to playing my level repeatedly. They found that it was too hard and discouraging trying to jump over each platform with the obstacle (acid or spikes) directly underneath it. So, I made it so it was in between the platforms instead. This improved the difficulty curve.
@@ -121,7 +122,6 @@ After playtesting with someone who was not too experienced in playing video game
 Hence, I was able to improve my level design through iterative design.
 
 I could have further improved the difficulty curve by placing the encounter at the end of the second section in a more strategic manner. I feel like it may have been too difficult for section two, although it could have helped in providing a variation in the difficulty curve instead of having a linear curve of easy to difficult. Placing it at the beginning of section three would improve the game.
-
 
 ## Generative AI Use Acknowledgement
 
