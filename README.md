@@ -25,9 +25,15 @@ In the first section, the player learns the mechanics of the game - how to recog
 
 For example, the first encounters teach the player that the spikes and acids must be avoided to preserve their health. This is done by allowing them to experiment with jumping over them or touching them. Players are allowed to make mistakes with the checkpoints placed before the encounter which will help them if they lose their health.
 
+![First Encounter](DocImages/Screenshot1.png)
+
 Another example is the encounter where the player learns how to jump below passthrough platforms and how to use the staff for short range attack. The pillars placed on the left side of the platform force the player to jump below the platform. Then, the player is forced to attack the pillar placed on the right of the platform with the staff in order to advance to the next encounter.
 
+![Passthrough Platform Encounter](DocImages/Screenshot1.png)
+
 One more example is when the player learns to use the gun for long range attacks. The player is forced to use the gun to attack the spitter before it attacks them as the acid is placed before the spitter, disallowing the player to attack with the short ranged staff. This strategic placement allows the player to learn this mechanic of the game.
+
+![Gun Encounter](DocImages/Screenshot1.png)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -69,23 +75,23 @@ The player may make contact with the spikes, causing damage to their health. Thi
 
 ### 2.3. Moving Platforms
 The player has to jump onto the moving platform and onto the next passthrough platform, which is placed at a height that ensures the player cannot simply jump onto it from otno the ground. This forces the player to learn how to use the moving platform. 
+
 This is also made easy for the player by ensuring there are no obstacles such as acid, spikes or enemies in their way. 
 
 ### 2.4. Passthrough Platforms & Weapon Pickup (Gun)
-Once the player has jumped onto the passthrough platform, they must jump below it in order to obtain the gun and attack the pillar in order to advance to the next encounter. 
+Once the player has jumped onto the passthrough platform, they must jump below it in order to obtain the gun and attack the pillar in order to advance to the next encounter. The placement of the pillars around it ensures that the player must learn to use the passthrough platform rather than avoiding it.
 
-### 2.3. Chompers
+### 2.5. Chompers
+After recieving the staff, there is a singular chomper to attack. There are no other obstacles around it, which ensures that this mechanic is simple to understand and execute.
 
-After recieving the gun
+### 2.6. Weapon Pickup (Gun) & Spitters
+After the player learns to use the staff by breaking blocks and pillars with it, they earn a new weapon - the gun. Then, there is a spitter standing on a dirt block which is at the right height to be in range of the gun. Acid is placed here so the player must use the long range attack witht the gun.
 
-### 2.4. Health Pickups
-The health pickups are placed at the end of each section in order to ensure the player can regain enough health to proceed with the next section. The number of health pickups decrease at the end of the second section in order to increase the challenge of the difficulty curve.
+### 2.7. Keys
+One key is placed at the end of each section as the reward for advancing through the level. It provides a sense of relief and satisfaction and allows the player to go through the door at the end of the level in order to finish it.
 
-### 2.5. Keys
-
-### 2.9. Spitters
-
-### 2.11. Weapon Pickup (Staff)
+### 2.8. Health Pickups
+The health pickups are placed at the end of each section in order to ensure the player can regain enough health to proceed with the next section. The number of health pickups decrease at the end of the second section in order to increase the challenge in the difficulty curve.
 
 ## 3. Spatiotemporal Design
 A section on Spatiotemporal Design, which includes your molecule diagram and annotated level maps (one for each main section of your level). These diagrams may be made digitally or by hand, but must not be created from screenshots of your game. The annotated level maps should show the structure you intend to build, included game elements, and the path the player is expected to take through the level. Examples of these diagrams are included in the level design lectures.
