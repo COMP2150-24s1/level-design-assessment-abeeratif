@@ -33,7 +33,7 @@ Another example is the encounter where the player learns how to jump below passt
 
 One more example is when the player learns to use the gun for long range attacks. The player is forced to use the gun to attack the spitter before it attacks them as the acid is placed before the spitter, disallowing the player to attack with the short ranged staff. This strategic placement allows the player to learn this mechanic of the game.
 
-![Gun Encounter](DocImages/Screenshot1.png)
+![Gun Encounter](DocImages/Screenshot3.png)
 
 ### 1.2. Drama
 What is the intensity curve? How does your design facilitate increasing yet modulating intensity, with moments of tension and relief? 
@@ -42,19 +42,31 @@ Throughout the difficulty curve, there is a modulated increase in difficulty whi
 
 The rising action in the intensity curve is when the early encounters in section one start with manageable challenges, gradually introducing mechanics and enemies.
 
+![Early Encounter](DocImages/Screenshot5.png)
+
 The climax in the intensity curve is when the player must weave through the platforms and obstacles and fight enemies using both short ranged and long ranged attacks. These challenges result in a high level of tension, pressure, urgency and excitement.
 
+![Weave Through Platforms & Obstacles](DocImages/Screenshot6.png)
+
 The falling action is when there is a moment of relief as the section becomes easier near the end and the key is obtained. The resolution is when all three keys are obtained and the game is finished. These both provide relief to the player and satisfaction.
+
+![Relief](DocImages/Screenshot7.png)
 
 ### 1.3. Challenge
 What are the main challenges? How have you designed and balanced these challenges to control the difficulty curve and keep the player in the flow channel?
 
 The main challenges are fighting the enemies while avoiding obstacles and jumping from platform to platform. This can be difficult when there are multiple enemies or when you must break the pillars in mid-air to advance to the next encounter or when you must jump below the pass-through platform in before the spitter attacks you completely. These challenges are introduced gradually within the game to ensure the player's skill level is aligned with the difficulty. Players are kept in the flow channel by ensuring they are focused and engaged. This is done by playtesting and adjusting the difficulty so that it is not too hard or easy.
 
+![Multiple Enemies, Breaking Pillars](DocImages/Screenshot4.png)
+
 ### 1.4. Exploration
 How does your level design facilitate autonomy and invite the player to explore? How do your aesthetic and layout choices create distinct and memorable spaces and/or places?
 
-The level design allows the player to explore and attack the enemies in a non-linear way in some encounters. For example, the player could jump over an enemy and proceed to the next platform, attack the next enemy and then return to the previous enemy.
+The level design allows the player to explore and attack the enemies in a non-linear way in the encounters. For example, the player could jump over an enemy and proceed to the next platform, attack the next enemy and then return to the previous enemy.
+
+The placement of platforms, obstacles and enemies are unique as these enhance the learning of mechanics in the game and the player’s enjoyment. Hence, these become distinct, memorable spaces.
+
+It would have been better if I could have implemented aspects to the game that would allow for a greater sense of exploration. For example, it could have been improved by adding different places or routes the player can explore, instead of having a linear path.
 
 ## 2. Core Gameplay (~400 words)
 A section on Core Gameplay, where storyboards are used to outline how you introduce the player to each of the required gameplay elements in the first section of the game. Storyboards should follow the format provided in lectures.
@@ -101,6 +113,7 @@ No additional words are necessary for this section (any words should only be wit
 ### 3.1. Molecule Diagram
 
 ![Molecule Diagram](DocImages/MoleculeDiagram.png)
+![Updated Molecule Diagram](DocImages/UpdatedMoleculeDiagram.png)
 
 ### 3.2. Level Map – Section 1 & Section 2
 ![Storyboard/Level Map Part 1](DocImages/Storyboard1.jpeg)
@@ -114,6 +127,8 @@ Reflect on how iterative design helped to improve your level. Additional prototy
 You should conclude by highlighting a specific example of an encounter, or another aspect of your level design, that could be improved through further iterative design.
 
 After drawing my storyboard and molecule diagram, I began implementing the design in my level. After I created each encounter, I playtested it and found there were some things that needed to be changed. Then, I modified the storyboard and molecule diagram to reflect the changes I wanted to make before implementing it in Unity. 
+
+![Updated Molecule Diagram](DocImages/UpdatedMoleculeDiagram.png)
 
 For example, I changed the first moving platform to be a pass through platform in order to make it easier for the player to learn how to jump onto a platform at first. I placed a pass through platform to ensure the platform does not move, not so that the player can jump below it.
 
